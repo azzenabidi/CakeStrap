@@ -1,0 +1,1 @@
+CakeStrap: a cakephp 3 template powered by bootstrap and jquery
